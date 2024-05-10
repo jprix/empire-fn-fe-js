@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Empire Financial React - v2.1.0
+* Empower Financial React - v2.1.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-kit-react
@@ -22,11 +22,11 @@ import { Routes, Route, Navigate, useLocation } from "react-router-dom";
 import { ThemeProvider } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 
-// Empire Financial React themes
+// Empower Financial React themes
 import theme from "assets/theme";
 import Presentation from "layouts/pages/presentation";
 
-// Empire Financial React routes
+// Empower Financial React routes
 import routes from "routes";
 
 export default function App() {

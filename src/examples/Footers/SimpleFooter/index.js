@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Empire Financial React - v2.1.0
+* Empower Financial React - v2.1.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-kit-react
@@ -21,11 +21,11 @@ import Container from "@mui/material/Container";
 import Link from "@mui/material/Link";
 import Icon from "@mui/material/Icon";
 
-// Empire Financial React components
+// Empower Financial React components
 import MKBox from "components/MKBox";
 import MKTypography from "components/MKTypography";
 
-// Empire Financial React base styles
+// Empower Financial React base styles
 import typography from "assets/theme/base/typography";
 
 function SimpleFooter({ company, links, light }) {

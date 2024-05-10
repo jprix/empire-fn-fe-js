@@ -1,7 +1,7 @@
-const navbarDarkCode = `// Empire Financial React components
+const navbarDarkCode = `// Empower Financial React components
 import MKBox from "components/MKBox";
 
-// Empire Financial React examples
+// Empower Financial React examples
 import DefaultNavbar from "examples/Navbars/DefaultNavbar";
 
 // Routes

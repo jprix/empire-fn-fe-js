@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Empire Financial React - v2.1.0
+* Empower Financial React - v2.1.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-kit-react
@@ -16,7 +16,7 @@ Coded by www.creative-tim.com
 // @mui material components
 import { styled } from "@mui/material/styles";
 
-// Empire Financial React components
+// Empower Financial React components
 import MKButton from "components/MKButton";
 
 export default styled(MKButton)(({ theme, ownerState }) => {

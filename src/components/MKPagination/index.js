@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Empire Financial React - v2.1.0
+* Empower Financial React - v2.1.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-kit-react
@@ -18,7 +18,7 @@ import { forwardRef, createContext, useContext, useMemo } from "react";
 // prop-types is a library for typechecking of props
 import PropTypes from "prop-types";
 
-// Empire Financial React components
+// Empower Financial React components
 import MKBox from "components/MKBox";
 
 // Custom styles for MKPagination

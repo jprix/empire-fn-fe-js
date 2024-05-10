@@ -6,7 +6,7 @@ import Grid from "@mui/material/Grid";
 import Stack from "@mui/material/Stack";
 import Popover from "@mui/material/Popover";
 
-// Empire Financial React components
+// Empower Financial React components
 import MKBox from "components/MKBox";
 import MKButton from "components/MKButton";
 import MKTypography from "components/MKTypography";

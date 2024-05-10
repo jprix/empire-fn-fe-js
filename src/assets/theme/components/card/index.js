@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Empire Financial React - v2.1.0
+* Empower Financial React - v2.1.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-kit-react
@@ -13,12 +13,12 @@ Coded by www.creative-tim.com
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 */
 
-// Empire Financial React Base Styles
+// Empower Financial React Base Styles
 import colors from "assets/theme/base/colors";
 import borders from "assets/theme/base/borders";
 import boxShadows from "assets/theme/base/boxShadows";
 
-// Empire Financial React Helper Function
+// Empower Financial React Helper Function
 import rgba from "assets/theme/functions/rgba";
 
 const { black, white } = colors;

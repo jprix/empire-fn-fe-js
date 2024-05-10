@@ -1,6 +1,6 @@
 /*
 =========================================================
-* Empire Financial React - v2.1.0
+* Empower Financial React - v2.1.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-kit-react
@@ -18,10 +18,10 @@ import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import Divider from "@mui/material/Divider";
 
-// Empire Financial React components
+// Empower Financial React components
 import MKBox from "components/MKBox";
 
-// Empire Financial React examples
+// Empower Financial React examples
 import DefaultInfoCard from "examples/Cards/InfoCards/DefaultInfoCard";
 
 function Counters() {

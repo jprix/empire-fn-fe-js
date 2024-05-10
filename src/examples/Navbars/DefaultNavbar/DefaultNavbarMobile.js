@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Empire Financial React - v2.1.0
+* Empower Financial React - v2.1.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-kit-react
@@ -25,11 +25,11 @@ import PropTypes from "prop-types";
 import Collapse from "@mui/material/Collapse";
 import MuiLink from "@mui/material/Link";
 
-// Empire Financial React components
+// Empower Financial React components
 import MKBox from "components/MKBox";
 import MKTypography from "components/MKTypography";
 
-// Empire Financial React example components
+// Empower Financial React example components
 import DefaultNavbarDropdown from "examples/Navbars/DefaultNavbar/DefaultNavbarDropdown";
 
 function DefaultNavbarMobile({ routes, open }) {

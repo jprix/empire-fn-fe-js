@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Empire Financial React - v2.1.0
+* Empower Financial React - v2.1.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-kit-react
@@ -14,9 +14,9 @@ Coded by www.creative-tim.com
 */
 
 /**
- * The base breakpoints for the Empire Financial React.
+ * The base breakpoints for the Empower Financial React.
  * You can add new breakpoints using this file.
- * You can customized the breakpoints for the entire Empire Financial React using thie file.
+ * You can customized the breakpoints for the entire Empower Financial React using thie file.
  */
 
 export default {

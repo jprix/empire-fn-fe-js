@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Empire Financial React - v2.1.0
+* Empower Financial React - v2.1.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-kit-react
@@ -14,15 +14,15 @@ Coded by www.creative-tim.com
 */
 
 /**
- * The base box-shadow styles for the Empire Financial React.
+ * The base box-shadow styles for the Empower Financial React.
  * You can add new box-shadow using this file.
- * You can customized the box-shadow for the entire Empire Financial React using thie file.
+ * You can customized the box-shadow for the entire Empower Financial React using thie file.
  */
 
-// Empire Financial React Base Styles
+// Empower Financial React Base Styles
 import colors from "assets/theme/base/colors";
 
-// Empire Financial React Helper Functions
+// Empower Financial React Helper Functions
 import boxShadow from "assets/theme/functions/boxShadow";
 
 const { black, white, tabs, coloredShadows } = colors;

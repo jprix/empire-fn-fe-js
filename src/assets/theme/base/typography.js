@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Empire Financial React - v2.1.0
+* Empower Financial React - v2.1.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-kit-react
@@ -14,15 +14,15 @@ Coded by www.creative-tim.com
 */
 
 /**
- * The base typography styles for the Empire Financial React.
+ * The base typography styles for the Empower Financial React.
  * You can add new typography style using this file.
- * You can customized the typography styles for the entire Empire Financial React using thie file.
+ * You can customized the typography styles for the entire Empower Financial React using thie file.
  */
 
-// Empire Financial React Base Styles
+// Empower Financial React Base Styles
 import colors from "assets/theme/base/colors";
 
-// Empire Financial React Helper Functions
+// Empower Financial React Helper Functions
 import pxToRem from "assets/theme/functions/pxToRem";
 
 const { dark } = colors;

@@ -1,7 +1,7 @@
 /* eslint-disable no-param-reassign */
 /**
 =========================================================
-* Empire Financial React - v2.1.0
+* Empower Financial React - v2.1.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-kit-react
@@ -14,10 +14,10 @@ Coded by www.creative-tim.com
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 */
 
-// Empire Financial React components
+// Empower Financial React components
 import MKBox from "components/MKBox";
 
-// Empire Financial React examples
+// Empower Financial React examples
 import DefaultNavbar from "examples/Navbars/DefaultNavbar";
 
 // Routes

@@ -1,6 +1,6 @@
 /*
 =========================================================
-* Empire Financial React - v2.1.0
+* Empower Financial React - v2.1.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-kit-react
@@ -20,11 +20,11 @@ import PropTypes from "prop-types";
 import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 
-// Empire Financial React components
+// Empower Financial React components
 import MKBox from "components/MKBox";
 import MKTypography from "components/MKTypography";
 
-// Empire Financial React examples
+// Empower Financial React examples
 import DefaultNavbar from "examples/Navbars/DefaultNavbar";
 import CenteredFooter from "examples/Footers/CenteredFooter";
 import Breadcrumbs from "examples/Breadcrumbs";

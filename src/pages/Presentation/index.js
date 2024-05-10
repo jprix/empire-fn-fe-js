@@ -1,6 +1,6 @@
 /*
 =========================================================
-* Empire Financial React - v2.1.0
+* Empower Financial React - v2.1.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-kit-react
@@ -18,12 +18,12 @@ import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import Card from "@mui/material/Card";
 
-// Empire Financial React components
+// Empower Financial React components
 import MKBox from "components/MKBox";
 import MKTypography from "components/MKTypography";
 import MKSocialButton from "components/MKSocialButton";
 
-// Empire Financial React examples
+// Empower Financial React examples
 import DefaultNavbar from "examples/Navbars/DefaultNavbar";
 import DefaultFooter from "examples/Footers/DefaultFooter";
 import FilledInfoCard from "examples/Cards/InfoCards/FilledInfoCard";
@@ -44,7 +44,7 @@ import routes from "routes";
 import footerRoutes from "footer.routes";
 
 // Images
-import bgImage from "assets/images/banner.png";
+import bgImage from "assets/images/bg-banner.png";
 
 function Presentation() {
   return (
@@ -65,8 +65,6 @@ function Presentation() {
         sx={{
           backgroundImage: `url(${bgImage})`,
           backgroundSize: "cover",
-          backgroundRepeat: "no-repeat",
-          backgroundPosition: "center center",
           display: "grid",
           placeItems: "center",
         }}
@@ -84,7 +82,7 @@ function Presentation() {
                 },
               })}
             >
-              Empire Financial Network{" "}
+              Empower Financial Network{" "}
             </MKTypography>
             <MKTypography
               variant="body1"
@@ -93,7 +91,7 @@ function Presentation() {
               px={{ xs: 6, lg: 12 }}
               mt={1}
             >
-              We empower people to live financially healthy lives. Empire Financial operates at the
+              We empower people to live financially healthy lives. Empower Financial operates at the
               crossroads of technology, information, and empathy.
             </MKTypography>
           </Grid>
