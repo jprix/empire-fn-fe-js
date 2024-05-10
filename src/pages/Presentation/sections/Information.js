@@ -1,6 +1,6 @@
 /*
 =========================================================
-* Material Kit 2 React - v2.1.0
+* Empire Financial React - v2.1.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-kit-react
@@ -17,10 +17,10 @@ Coded by www.creative-tim.com
 import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 
-// Material Kit 2 React components
+// Empire Financial React components
 import MKBox from "components/MKBox";
 
-// Material Kit 2 React examples
+// Empire Financial React examples
 import RotatingCard from "examples/Cards/RotatingCard";
 import RotatingCardFront from "examples/Cards/RotatingCard/RotatingCardFront";
 import RotatingCardBack from "examples/Cards/RotatingCard/RotatingCardBack";
@@ -82,9 +82,9 @@ function Information() {
             <Grid container spacing={3} sx={{ mt: { xs: 0, md: 6 } }}>
               <Grid item xs={12} md={6}>
                 <DefaultInfoCard
-                  icon="price_change"
-                  title="Save Time & Money"
-                  description="Creating your design from scratch with dedicated designers can be very expensive. Start with our Design System."
+                  icon="flip_to_front"
+                  title="MUI Ready"
+                  description="The world's most popular react components library for building user interfaces."
                 />
               </Grid>
               <Grid item xs={12} md={6}>

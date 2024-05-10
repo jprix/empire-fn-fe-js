@@ -1,6 +1,6 @@
 /*
 =========================================================
-* Material Kit 2 React - v2.1.0
+* Empire Financial React - v2.1.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-kit-react
@@ -18,11 +18,11 @@ import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import Divider from "@mui/material/Divider";
 
-// Material Kit 2 React components
+// Empire Financial React components
 import MKBox from "components/MKBox";
 
-// Material Kit 2 React examples
-import DefaultCounterCard from "examples/Cards/CounterCards/DefaultCounterCard";
+// Empire Financial React examples
+import DefaultInfoCard from "examples/Cards/InfoCards/DefaultInfoCard";
 
 function Counters() {
   return (
@@ -30,28 +30,26 @@ function Counters() {
       <Container>
         <Grid container item xs={12} lg={9} sx={{ mx: "auto" }}>
           <Grid item xs={12} md={4}>
-            <DefaultCounterCard
-              count={70}
-              suffix="+"
-              title="Coded Elements"
-              description="From buttons, to inputs, navbars, alerts or cards, you are covered"
+            <DefaultInfoCard
+              icon="lightbulb"
+              title="Innovation"
+              description="Always look to improve our talent, processes, and products. Be open to new ideas."
             />
           </Grid>
           <Grid item xs={12} md={4} display="flex">
             <Divider orientation="vertical" sx={{ display: { xs: "none", md: "block" }, mx: 0 }} />
-            <DefaultCounterCard
-              count={15}
-              suffix="+"
-              title="Design Blocks"
-              description="Mix the sections, change the colors and unleash your creativity"
+            <DefaultInfoCard
+              icon="stacked_line_chart"
+              title="Innovation"
+              description="Commit to achieve the best outcomes for our clients. Continuously track and measure everything and use it to always be improving. Be proactive, not reactive."
             />
             <Divider orientation="vertical" sx={{ display: { xs: "none", md: "block" }, ml: 0 }} />
           </Grid>
           <Grid item xs={12} md={4}>
-            <DefaultCounterCard
-              count={4}
-              title="Pages"
-              description="Save 3-4 weeks of work when you use our pre-made pages for your website"
+            <DefaultInfoCard
+              icon="security"
+              title="Innovation"
+              description="Act professionally and positively. Build trust by doing what we say. Be upfront and communicate thoroughly."
             />
           </Grid>
         </Grid>

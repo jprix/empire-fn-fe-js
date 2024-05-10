@@ -1,6 +1,6 @@
 /*
 =========================================================
-* Material Kit 2 React - v2.1.0
+* Empire Financial React - v2.1.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-kit-react
@@ -18,12 +18,12 @@ import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import Card from "@mui/material/Card";
 
-// Material Kit 2 React components
+// Empire Financial React components
 import MKBox from "components/MKBox";
 import MKTypography from "components/MKTypography";
 import MKSocialButton from "components/MKSocialButton";
 
-// Material Kit 2 React examples
+// Empire Financial React examples
 import DefaultNavbar from "examples/Navbars/DefaultNavbar";
 import DefaultFooter from "examples/Footers/DefaultFooter";
 import FilledInfoCard from "examples/Cards/InfoCards/FilledInfoCard";
@@ -44,7 +44,7 @@ import routes from "routes";
 import footerRoutes from "footer.routes";
 
 // Images
-import bgImage from "assets/images/bg-presentation.jpg";
+import bgImage from "assets/images/banner.png";
 
 function Presentation() {
   return (
@@ -54,8 +54,8 @@ function Presentation() {
         action={{
           type: "external",
           route: "https://www.creative-tim.com/product/material-kit-react",
-          label: "free download",
-          color: "info",
+          label: "Contact Us",
+          color: "secondary",
         }}
         sticky
       />
@@ -65,7 +65,8 @@ function Presentation() {
         sx={{
           backgroundImage: `url(${bgImage})`,
           backgroundSize: "cover",
-          backgroundPosition: "top",
+          backgroundRepeat: "no-repeat",
+          backgroundPosition: "center center",
           display: "grid",
           placeItems: "center",
         }}
@@ -83,7 +84,7 @@ function Presentation() {
                 },
               })}
             >
-              Material Kit 2 React{" "}
+              Empire Financial Network{" "}
             </MKTypography>
             <MKTypography
               variant="body1"
@@ -92,8 +93,8 @@ function Presentation() {
               px={{ xs: 6, lg: 12 }}
               mt={1}
             >
-              Free & Open Source Web UI Kit built over ReactJS &amp; MUI. Join over 1.6 million
-              developers around the world.
+              We empower people to live financially healthy lives. Empire Financial operates at the
+              crossroads of technology, information, and empathy.
             </MKTypography>
           </Grid>
         </Container>

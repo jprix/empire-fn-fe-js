@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Material Kit 2 React - v2.1.0
+* Empire Financial React - v2.1.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-kit-react
@@ -14,9 +14,9 @@ Coded by www.creative-tim.com
 */
 
 /**
- * The base colors for the Material Kit 2 React.
+ * The base colors for the Empire Financial React.
  * You can add new color using this file.
- * You can customized the colors for the entire Material Kit 2 React using thie file.
+ * You can customized the colors for the entire Empire Financial React using thie file.
  */
 
 export default {
@@ -25,8 +25,8 @@ export default {
   },
 
   text: {
-    main: "#7b809a",
-    focus: "#7b809a",
+    main: "#0a1928",
+    focus: "#0a1928",
   },
 
   transparent: {
@@ -50,13 +50,13 @@ export default {
   },
 
   secondary: {
-    main: "#7b809a",
-    focus: "#8f93a9",
+    main: "#e0ac47",
+    focus: "#e6d193",
   },
 
   info: {
-    main: "#1A73E8",
-    focus: "#1662C4",
+    main: "#5c4f3c",
+    focus: "#99611d",
   },
 
   success: {
@@ -80,8 +80,8 @@ export default {
   },
 
   dark: {
-    main: "#344767",
-    focus: "#2c3c58",
+    main: "#0a1928",
+    focus: "#e0ac47",
   },
 
   grey: {
